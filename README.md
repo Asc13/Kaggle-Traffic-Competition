@@ -1,4 +1,4 @@
-# Kaggle-Traffic-Competition
+# Kaggle Traffic Competition
 
 [Kaggle Competition](https://www.kaggle.com/competitions/tpsbsdaa2122)
 
